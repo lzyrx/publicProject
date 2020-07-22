@@ -1,5 +1,5 @@
 #！/bin/bash
-subProj=("ShareMoudle")
+subProj=("ShareModule")
 onlineGidPrifix="https://github.com/lzyrx/"
 for data in ${subProj[@]}
 do

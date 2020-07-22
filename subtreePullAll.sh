@@ -1,5 +1,5 @@
 #！/bin/bash
-subProj=("ShareMoudle")
+subProj=("ShareModule")
 
 originBaseProjPath="./"
 onlineGidPrifix="https://github.com/lzyrx/"
